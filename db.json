@@ -1,1091 +1,1273 @@
 [
   {
+    "id": 1,
     "Cachaça": "Aguardente Solar de Blumenau [33]",
     "Cidade": "Blumenau",
     "UF": "SC",
     "Graduação": "38,70%"
   },
   {
+    "id": 2,
     "Cachaça": "Cachaça Jeribita",
     "Cidade": "Mamanguape",
     "UF": "PB",
     "Graduação": "40,00%"
   },
   {
+    "id": 3,
     "Cachaça": "Cachaça Ordinária di Minas [34]",
     "Cidade": "Felixlândia",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 4,
     "Cachaça": "Cachaça Dedo de Prosa [35]",
     "Cidade": "Piranguinho",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 5,
     "Cachaça": "Água Doce [36]",
     "Cidade": "Tupã",
     "UF": "SP",
     "Graduação": "45,00%"
   },
   {
+    "id": 6,
     "Cachaça": "Cachaça Paus & Picas",
     "Cidade": "Rezende",
     "UF": "SP",
     "Graduação": "47,00%"
   },
   {
+    "id": 7,
     "Cachaça": "Ariana",
     "Cidade": "Cláudio",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 8,
     "Cachaça": "Armazém Vieira",
     "Cidade": "Florianópolis",
     "UF": "SC",
     "Graduação": "40,00%"
   },
   {
+    "id": 9,
     "Cachaça": "Áurea Custódio",
     "Cidade": "Ribeirão das Neves",
     "UF": "MG",
     "Graduação": ""
   },
   {
+    "id": 10,
     "Cachaça": "Barrôca",
     "Cidade": "Congonhas",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 11,
     "Cachaça": "Bença",
     "Cidade": "Conceição do Pará",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 12,
     "Cachaça": "Boa Vitória",
     "Cidade": "Brumadinho",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 13,
     "Cachaça": "Boazinha",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 14,
     "Cachaça": "Botiqueira",
     "Cidade": "São Tiago",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 15,
     "Cachaça": "Brejinho",
     "Cidade": "Patis",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 16,
     "Cachaça": "Brinco de Ouro",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 17,
     "Cachaça": "Cachaça 61 [37]",
     "Cidade": "Santa Rita do Passa Quatro",
     "UF": "SP",
     "Graduação": "39,00%"
   },
   {
+    "id": 18,
     "Cachaça": "Cachaça Bertozzi [38]",
     "Cidade": "Poços de Caldas",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 19,
     "Cachaça": "Cachaça Corote [39]",
     "Cidade": "Santa Rita do Passa Quatro",
     "UF": "SP",
     "Graduação": "39,00%"
   },
   {
+    "id": 20,
     "Cachaça": "Cachaça Floresta [40]",
     "Cidade": "Burarama - Cachoeiro de Itapemirim",
     "UF": "ES",
     "Graduação": "41,00%"
   },
   {
+    "id": 21,
     "Cachaça": "Cachaça do Rei [41]",
     "Cidade": "Capivari",
     "UF": "SP",
     "Graduação": "47,00%"
   },
   {
+    "id": 22,
     "Cachaça": "Cachaça Parapeúna",
     "Cidade": "Valença",
     "UF": "RJ",
     "Graduação": "42,00%"
   },
   {
+    "id": 23,
     "Cachaça": "Cachaça Poesia [42]",
     "Cidade": "Munhoz",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 24,
     "Cachaça": "Cachaça Sanhaçu Orgânica [43]",
     "Cidade": "Zona da Mata",
     "UF": "PE",
     "Graduação": "40,00%"
   },
   {
+    "id": 205,
     "Cachaça": "Cachaça Guapiara [44]",
     "Cidade": "Passa Quatro",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 26,
     "Cachaça": "Caninha D'ouro ligação externa",
     "Cidade": "Igarassu",
     "UF": "PE",
     "Graduação": "39,00%"
   },
   {
+    "id": 27,
     "Cachaça": "Cachaça da Serra",
     "Cidade": "São Paulo",
     "UF": "SP",
     "Graduação": "39,00%"
   },
   {
+    "id": 28,
     "Cachaça": "Cachaça da Velha",
     "Cidade": "Londrina",
     "UF": "PR",
     "Graduação": "40,00%"
   },
   {
+    "id": 29,
     "Cachaça": "Cachaça do Mestre",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "39,00%"
   },
   {
+    "id": 30,
     "Cachaça": "Cachaça Serrote [45]",
     "Cidade": "Salgueiro",
     "UF": "PE",
     "Graduação": "38,00%"
   },
   {
+    "id": 31,
     "Cachaça": "Cachaça Doministro [46]",
     "Cidade": "Alexânia",
     "UF": "GO",
     "Graduação": "40,00%"
   },
   {
+    "id": 32,
     "Cachaça": "Cachaça Magnífica [47]",
     "Cidade": "Miguel Pereira",
     "UF": "RJ",
     "Graduação": "45,00%"
   },
   {
+    "id": 33,
     "Cachaça": "Cachaça Olho de Boi",
     "Cidade": "Ubá",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 34,
     "Cachaça": "Cachaça Da Mata [48]",
     "Cidade": "Santa Teresa",
     "UF": "ES",
     "Graduação": "40,0%, 44,0% e 48,0%"
   },
   {
+    "id": 35,
     "Cachaça": "Cachaça do Parol",
     "Cidade": "Curvelo",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 36,
     "Cachaça": "Cachaça Cúmulo do absurdo [49]",
     "Cidade": "Governador Valadares",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 37,
     "Cachaça": "Cachaça do Sobradinho",
     "Cidade": "Itamonte",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 38,
     "Cachaça": "Cachaça do Velho",
     "Cidade": "Santo Amaro",
     "UF": "SP",
     "Graduação": "40,00%"
   },
   {
+    "id": 39,
     "Cachaça": "Cachaça Santa Terezinha",
     "Cidade": "Vila Velha",
     "UF": "ES",
     "Graduação": "43% Vol"
   },
   {
+    "id": 40,
     "Cachaça": "Cachaça Velho Ferreira [50]",
     "Cidade": "Vitoriano Veloso - Prados",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 41,
     "Cachaça": "Caipirona",
     "Cidade": "Mar de Espanha",
     "UF": "MG",
     "Graduação": "43º"
   },
   {
+    "id": 42,
     "Cachaça": "Cachaça Caipira",
     "Cidade": "Sao Roque do Canaã",
     "UF": "ES",
     "Graduação": ""
   },
   {
+    "id": 43,
     "Cachaça": "Cambéba [51]",
     "Cidade": "Alexânia",
     "UF": "GO",
     "Graduação": "39,00%"
   },
   {
+    "id": 44,
     "Cachaça": "Cambuí [52]",
     "Cidade": "Perdões",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 45,
     "Cachaça": "Caminho Velho",
     "Cidade": "Lavras",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 46,
     "Cachaça": "Caninha 29 [53]",
     "Cidade": "Pirassununga",
     "UF": "SP",
     "Graduação": ""
   },
   {
+    "id": 47,
     "Cachaça": "Cana Crioula - Cachaça Preta [54]",
     "Cidade": "Porto Feliz",
     "UF": "SP",
     "Graduação": "38,00%"
   },
   {
+    "id": 48,
     "Cachaça": "Caninha Três Müínho",
     "Cidade": "Itajubá",
     "UF": "MG",
     "Graduação": "46,00%"
   },
   {
+    "id": 49,
     "Cachaça": "Caninha da Roça",
     "Cidade": "Rio das Pedras",
     "UF": "SP",
     "Graduação": ""
   },
   {
+    "id": 50,
     "Cachaça": "Caranguejo",
     "Cidade": "Campina Grande",
     "UF": "PB",
     "Graduação": "39,00%"
   },
   {
+    "id": 51,
     "Cachaça": "Caribe",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": "48,00%"
   },
   {
+    "id": 52,
     "Cachaça": "Carnaval",
     "Cidade": "Vila Velha",
     "UF": "ES",
     "Graduação": "40,00%"
   },
   {
+    "id": 53,
     "Cachaça": "Casa Grande",
     "Cidade": "Nova Lima",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 54,
     "Cachaça": "Cearense",
     "Cidade": "Redenção",
     "UF": "CE",
     "Graduação": "39,00%"
   },
   {
+    "id": 55,
     "Cachaça": "Central de Minas",
     "Cidade": "Fortunas de Minas",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 56,
     "Cachaça": "Chapéu de Palha",
     "Cidade": "Presidente Prudente",
     "UF": "SP",
     "Graduação": "39°"
   },
   {
+    "id": 57,
     "Cachaça": "Chave de Ouro",
     "Cidade": "Acarape",
     "UF": "CE",
     "Graduação": "39°"
   },
   {
+    "id": 58,
     "Cachaça": "Chico Mineiro",
     "Cidade": "Paineiras",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 59,
     "Cachaça": "Claudionor",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": "54°"
   },
   {
+    "id": 60,
     "Cachaça": "Colonial Brasil",
     "Cidade": "Piraí",
     "UF": "RJ",
     "Graduação": "ND"
   },
   {
+    "id": 61,
     "Cachaça": "Cachaça Coqueiro [55]",
     "Cidade": "Paraty",
     "UF": "RJ",
     "Graduação": "44°"
   },
   {
+    "id": 62,
     "Cachaça": "Coquinho do Norte",
     "Cidade": "Ribeirão Preto",
     "UF": "SP",
     "Graduação": "40°"
   },
   {
+    "id": 63,
     "Cachaça": "Coquinho Miguelão",
     "Cidade": "Presidente Prudente",
     "UF": "SP",
     "Graduação": "29°"
   },
   {
+    "id": 64,
     "Cachaça": "Coral",
     "Cidade": "São Roque",
     "UF": "SP",
     "Graduação": "40,00%"
   },
   {
+    "id": 65,
     "Cachaça": "Coração do Vale [56]",
     "Cidade": "Araçuaí",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 66,
     "Cachaça": "Cristalina",
     "Cidade": "Buenópolis",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 67,
     "Cachaça": "Dom Braga  [57]",
     "Cidade": "Dois Irmãos",
     "UF": "RS",
     "Graduação": "40%"
   },
   {
+    "id": 68,
     "Cachaça": "Dona Branca",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 69,
     "Cachaça": "Donzela",
     "Cidade": "Guarabira",
     "UF": "PB",
     "Graduação": "42,00%"
   },
   {
+    "id": 70,
     "Cachaça": "Du Botti",
     "Cidade": "Belmiro Braga",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 71,
     "Cachaça": "Elisa",
     "Cidade": "Patrocínio Paulista",
     "UF": "SP",
     "Graduação": "39%"
   },
   {
+    "id": 72,
     "Cachaça": "Engenho Água Doce",
     "Cidade": "Vicência",
     "UF": "PE",
     "Graduação": "40%"
   },
   {
+    "id": 73,
     "Cachaça": "Engenho da Vertente [58]",
     "Cidade": "Santo Antônio do Jardim",
     "UF": "SP",
     "Graduação": "43%"
   },
   {
+    "id": 74,
     "Cachaça": "Engenho de Mel",
     "Cidade": "Paraguaçu",
     "UF": "MG",
     "Graduação": "39,00%"
   },
   {
+    "id": 75,
     "Cachaça": "Engenho do Meio",
     "Cidade": "Santa Rita",
     "UF": "PB",
     "Graduação": "42,50%"
   },
   {
+    "id": 76,
     "Cachaça": "Empório Renzi",
     "Cidade": "Cunha",
     "UF": "SP",
     "Graduação": "41,00%"
   },
   {
+    "id": 77,
     "Cachaça": "Erva Doce",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 78,
     "Cachaça": "Espírito de Minas",
     "Cidade": "São Tiago",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 79,
     "Cachaça": "Estrada Velha",
     "Cidade": "Ouro Preto",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 80,
     "Cachaça": "Famosinha de Minas",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": 43
   },
   {
+    "id": 81,
     "Cachaça": "Ferreira",
     "Cidade": "Eng. Navarro",
     "UF": "MG",
     "Graduação": "45,80%"
   },
   {
+    "id": 82,
     "Cachaça": "Furadense",
     "Cidade": "Barra do Furado",
     "UF": "RJ",
     "Graduação": "39º"
   },
   {
+    "id": 83,
     "Cachaça": "Gato",
     "Cidade": "Aracajú",
     "UF": "SE",
     "Graduação": "42º"
   },
   {
+    "id": 84,
     "Cachaça": "Gavião do Vale",
     "Cidade": "Belo Vale",
     "UF": "MG",
     "Graduação": "42%"
   },
   {
+    "id": 85,
     "Cachaça": "Geraldo Firmino",
     "Cidade": "Abre Campo",
     "UF": "MG",
     "Graduação": "46,00%"
   },
   {
+    "id": 86,
     "Cachaça": "Gostosa",
     "Cidade": "Campina Grande",
     "UF": "PB",
     "Graduação": "39,00%"
   },
   {
+    "id": 87,
     "Cachaça": "Guarda Velha",
     "Cidade": "Sto. Antonio da Patrulha",
     "UF": "RS",
     "Graduação": "42,00%"
   },
   {
+    "id": 88,
     "Cachaça": "Indaiazinha",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 89,
     "Cachaça": "Inconfidência",
     "Cidade": "Guarani",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 90,
     "Cachaça": "Isaura Ouro",
     "Cidade": "Jequitibá",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 91,
     "Cachaça": "Jangada",
     "Cidade": "Campina Grande",
     "UF": "PB",
     "Graduação": "40°"
   },
   {
+    "id": 92,
     "Cachaça": "Januária",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": "43°"
   },
   {
+    "id": 93,
     "Cachaça": "Jitirana",
     "Cidade": "Teresina",
     "UF": "PI",
     "Graduação": "43°"
   },
   {
+    "id": 94,
     "Cachaça": "Kariri",
     "Cidade": "Barbalha",
     "UF": "CE",
     "Graduação": "40°"
   },
   {
+    "id": 95,
     "Cachaça": "João Mendes",
     "Cidade": "Perdões",
     "UF": "MG",
     "Graduação": "38,00%"
   },
   {
+    "id": 96,
     "Cachaça": "Kilombinha",
     "Cidade": "Fortaleza",
     "UF": "CE",
     "Graduação": "ND"
   },
   {
+    "id": 97,
     "Cachaça": "Lá de Minas",
     "Cidade": "São Tiago",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 98,
     "Cachaça": "Laranjeiras da Boa Vista",
     "Cidade": "Ouro Preto",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 99,
     "Cachaça": "Lenda Mineira",
     "Cidade": "Tarumirim",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 100,
     "Cachaça": "Limeira",
     "Cidade": "Machado",
     "UF": "MG",
     "Graduação": "48,18°GL"
   },
   {
+    "id": 101,
     "Cachaça": "Lua Cheia",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 102,
     "Cachaça": "Lua Nova",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 103,
     "Cachaça": "Lúcia Verissimo",
     "Cidade": "Ouro Preto",
     "UF": "MG",
     "Graduação": "46,00%"
   },
   {
+    "id": 104,
     "Cachaça": "Madeira do Norte",
     "Cidade": "Tabira",
     "UF": "PE",
     "Graduação": "ND"
   },
   {
+    "id": 105,
     "Cachaça": "Majuí Mangueira",
     "Cidade": "Tuiuti Castelo do Piauí",
     "UF": "SP PI",
     "Graduação": "40% ND"
   },
   {
+    "id": 106,
     "Cachaça": "Mantiqueira",
     "Cidade": "Antônio Carlos",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 107,
     "Cachaça": "Maria da Cruz",
     "Cidade": "Maria da Cruz",
     "UF": "MG",
     "Graduação": "46,00%"
   },
   {
+    "id": 108,
     "Cachaça": "Maria Rita Kehl",
     "Cidade": "São Paulo",
     "UF": "SP",
     "Graduação": "38%"
   },
   {
+    "id": 109,
     "Cachaça": "Marimbondo",
     "Cidade": "Guarabira",
     "UF": "PB",
     "Graduação": "42°"
   },
   {
+    "id": 110,
     "Cachaça": "Marimbondo PE",
     "Cidade": "Bezerros",
     "UF": "PE",
     "Graduação": "41º"
   },
   {
+    "id": 111,
     "Cachaça": "Maribondo Ouro",
     "Cidade": "Guarabira",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 112,
     "Cachaça": "MaxiCana",
     "Cidade": "Barra de Guaratiba",
     "UF": "RJ",
     "Graduação": "43,00%"
   },
   {
+    "id": 113,
     "Cachaça": "Meia Lua",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 114,
     "Cachaça": "Mel Brasil",
     "Cidade": "Presidente Prudente",
     "UF": "SP",
     "Graduação": "45,00%"
   },
   {
+    "id": 115,
     "Cachaça": "Milagre de Minas",
     "Cidade": "Belo Horizonte",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 116,
     "Cachaça": "Minas de Ouro",
     "Cidade": "Taiobeira",
     "UF": "MG",
     "Graduação": "45,50%"
   },
   {
+    "id": 117,
     "Cachaça": "Mistura Fina",
     "Cidade": "Poço Fundo",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 119,
     "Cachaça": "Mito Brasil",
     "Cidade": "Patos de Minas",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 120,
     "Cachaça": "Cachaça Monções [59]",
     "Cidade": "Porto Feliz",
     "UF": "SP",
     "Graduação": "38,00%"
   },
   {
+    "id": 121,
     "Cachaça": "Montanhesa",
     "Cidade": "Araguari",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 122,
     "Cachaça": "Monte Alto",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 123,
     "Cachaça": "Mucuri",
     "Cidade": "Canhotinho",
     "UF": "PE",
     "Graduação": "40º"
   },
   {
+    "id": 124,
     "Cachaça": "Muricy",
     "Cidade": "Aracajú",
     "UF": "SE",
     "Graduação": "40°"
   },
   {
+    "id": 125,
     "Cachaça": "Nabunda",
     "Cidade": "Parati",
     "UF": "RJ",
     "Graduação": "ND"
   },
   {
+    "id": 126,
     "Cachaça": "Noronha",
     "Cidade": "Unaí",
     "UF": "MG",
     "Graduação": "46,70%"
   },
   {
+    "id": 127,
     "Cachaça": "Nossa Cachaça",
     "Cidade": "Belo Horizonte",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 128,
     "Cachaça": "Olho de Boi",
     "Cidade": "Ubá",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 129,
     "Cachaça": "Olária",
     "Cidade": "Getulina",
     "UF": "SP",
     "Graduação": "39°"
   },
   {
+    "id": 130,
     "Cachaça": "Old César - 88",
     "Cidade": "Jundiaí",
     "UF": "SP",
     "Graduação": "39°"
   },
   {
+    "id": 131,
     "Cachaça": "Olho D’água",
     "Cidade": "Bezerros",
     "UF": "PE",
     "Graduação": "41º"
   },
   {
+    "id": 132,
     "Cachaça": "Paratiana",
     "Cidade": "Paraty",
     "UF": "RJ",
     "Graduação": "44,00%"
   },
   {
+    "id": 133,
     "Cachaça": "Patativa",
     "Cidade": "Crato",
     "UF": "CE",
     "Graduação": "40,00%"
   },
   {
+    "id": 134,
     "Cachaça": "Ponte Nova",
     "Cidade": "Belo Horizonte",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 135,
     "Cachaça": "Porterinha",
     "Cidade": "Conceição do Pará",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 136,
     "Cachaça": "Porto Estrela",
     "Cidade": "Pedras de Mª da Cruz",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 137,
     "Cachaça": "Porto Morretes[60]",
     "Cidade": "Morretes",
     "UF": "PR",
     "Graduação": "39%"
   },
   {
+    "id": 138,
     "Cachaça": "Primeira Dama",
     "Cidade": "Patos de Minas",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 139,
     "Cachaça": "Princesa Januaria",
     "Cidade": "Januário",
     "UF": "MG",
     "Graduação": "46,00%"
   },
   {
+    "id": 140,
     "Cachaça": "Rainha do Vale",
     "Cidade": "Belo Vale",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 141,
     "Cachaça": "Raízes de Minas",
     "Cidade": "Guarani",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 142,
     "Cachaça": "Rapariga",
     "Cidade": "Viçosa",
     "UF": "CE",
     "Graduação": "ND"
   },
   {
+    "id": 143,
     "Cachaça": "Rainha do Campo Rainha Pernambucana",
     "Cidade": "Tuiuti Maraial",
     "UF": "SP PE",
     "Graduação": "40° 40º"
   },
   {
+    "id": 144,
     "Cachaça": "Recordações de 40",
     "Cidade": "Recife",
     "UF": "PE",
     "Graduação": "40°"
   },
   {
+    "id": 145,
     "Cachaça": "Republicana",
     "Cidade": "Andradas",
     "UF": "MG",
     "Graduação": "45,00%"
   },
   {
+    "id": 146,
     "Cachaça": "Reserva do Gerente",
     "Cidade": "Vilha Velha",
     "UF": "ES",
     "Graduação": "42,00%"
   },
   {
+    "id": 147,
     "Cachaça": "Riacho Doce",
     "Cidade": "F. Tourinho",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 148,
     "Cachaça": "Rochinha Ouro 5 anos",
     "Cidade": "Barra Mansa",
     "UF": "RJ",
     "Graduação": "41,00%"
   },
   {
+    "id": 149,
     "Cachaça": "Rochinha Prata",
     "Cidade": "Barra Mansa",
     "UF": "RJ",
     "Graduação": "46,00%"
   },
   {
+    "id": 150,
     "Cachaça": "Rumo Certo",
     "Cidade": "Patis",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 151,
     "Cachaça": "Sagarana",
     "Cidade": "Pedras de Mª da Cruz",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 152,
     "Cachaça": "Saliboa",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "45,50%"
   },
   {
+    "id": 153,
     "Cachaça": "Salimel",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "42,00%"
   },
   {
+    "id": 154,
     "Cachaça": "Salinas",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "44,80%"
   },
   {
+    "id": 155,
     "Cachaça": "Salineira",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "44,80%"
   },
   {
+    "id": 156,
     "Cachaça": "Santuário de Minas",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": "44,00%"
   },
   {
+    "id": 157,
     "Cachaça": "Santo Mário",
     "Cidade": "Catanduva",
     "UF": "SP",
     "Graduação": "39,00%"
   },
   {
+    "id": 158,
     "Cachaça": "São Francisco",
     "Cidade": "Barueri",
     "UF": "SP",
     "Graduação": "39°"
   },
   {
+    "id": 159,
     "Cachaça": "São Sebastião",
     "Cidade": "São Roque do Canaã",
     "UF": "ES",
     "Graduação": "ND"
   },
   {
+    "id": 160,
     "Cachaça": "Serra Grande",
     "Cidade": "Gravatá",
     "UF": "PE",
     "Graduação": "42°"
   },
   {
+    "id": 161,
     "Cachaça": "Supimpa",
     "Cidade": "São Paulo",
     "UF": "SP",
     "Graduação": "38°"
   },
   {
+    "id": 162,
     "Cachaça": "Suprema",
     "Cidade": "São Roque do Canaã",
     "UF": "ES",
     "Graduação": "44,00%"
   },
   {
+    "id": 163,
     "Cachaça": "Velha de Januária",
     "Cidade": "Januária",
     "UF": "MG",
     "Graduação": "48°"
   },
   {
+    "id": 164,
     "Cachaça": "Cedro do Líbano Premium",
     "Cidade": "São Gonçalo do Amarante",
     "UF": "CE",
     "Graduação": "41%"
   },
   {
+    "id": 165,
     "Cachaça": "Cachaça de Rolha",
     "Cidade": "São Gonçalo do Amarante",
     "UF": "CE",
     "Graduação": "41%"
   },
   {
+    "id": 166,
     "Cachaça": "Segredo de Araxá",
     "Cidade": "Araxá",
     "UF": "MG",
     "Graduação": "42,50%"
   },
   {
+    "id": 167,
     "Cachaça": "Segredo do Patriarca",
     "Cidade": "Brumadinho",
     "UF": "MG",
     "Graduação": "43,00%"
   },
   {
+    "id": 168,
     "Cachaça": "Seleta",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "44,80%"
   },
   {
+    "id": 169,
     "Cachaça": "Serra Azul",
     "Cidade": "Andrelândia",
     "UF": "MG",
     "Graduação": "38,00%"
   },
   {
+    "id": 170,
     "Cachaça": "Serra da Campina",
     "Cidade": "Nova Lima",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 171,
     "Cachaça": "Serra Morena (cachaça)",
     "Cidade": "Belo Vale",
     "UF": "MG",
     "Graduação": "44,0% e 40,0%"
   },
   {
+    "id": 172,
     "Cachaça": "Serrinha",
     "Cidade": "Lavras",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 173,
     "Cachaça": "Spass",
     "Cidade": "Nova Era",
     "UF": "MG",
     "Graduação": "40,00%"
   },
   {
+    "id": 174,
     "Cachaça": "Unser Schnaps",
     "Cidade": "Presidente Lucena",
     "UF": "RS",
     "Graduação": "38,50%"
   },
   {
+    "id": 175,
     "Cachaça": "Tabua",
     "Cidade": "Salinas",
     "UF": "MG",
     "Graduação": "N/D"
   },
   {
+    "id": 176,
     "Cachaça": "Taverna de Minas [61]",
     "Cidade": "Itaverava - Itaverava",
     "UF": "MG Minas Gerais",
     "Graduação": "39,00%"
   },
   {
+    "id": 177,
     "Cachaça": "Tucana",
     "Cidade": "São João Batista do Glória",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 178,
     "Cachaça": "Tulinha",
     "Cidade": "Itapeva",
     "UF": "SP",
     "Graduação": "40,00%"
   },
   {
+    "id": 179,
     "Cachaça": "Villa Velha",
     "Cidade": "Pirassununga",
     "UF": "MG",
     "Graduação": "ND"
   },
   {
+    "id": 180,
     "Cachaça": "Vai Dorme",
     "Cidade": "Descanso",
     "UF": "SC",
     "Graduação": "42,00%"
   },
   {
+    "id": 181,
     "Cachaça": "Veio de Minas",
     "Cidade": "João Monlevade",
     "UF": "MG",
     "Graduação": "41,00%"
   },
   {
+    "id": 182,
     "Cachaça": "Cachaça Werneck",
     "Cidade": "Rio das Flores",
     "UF": "RJ",
     "Graduação": "42%"
   },
   {
+    "id": 183,
     "Cachaça": "Cachaça Zipmail",
     "Cidade": "Piassavas",
     "UF": "SP",
